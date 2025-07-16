@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dharani Suresh!
 
-<!--
-**Dharaniha/Dharaniha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.E. Computer Science Engineering Student  
+💻 Passionate about coding and real-world projects  
+📘 Learning: C, DBMS, Git, Shell Scripting, and Backend Development  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- 💡 C, C++, Python, HTML, CSS
+- 🧰 Tools: Git, Canva, VS Code, VirtualBox
+- 📚 Interests: Web Dev, System Programming, Backend Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+>
+
+📫 Email:dharaniniha79@gmail.com
