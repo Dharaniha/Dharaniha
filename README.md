@@ -5,7 +5,7 @@
 📘 Learning: C, DBMS, Git, Shell Scripting, and Backend Development  
 
 ## 🛠 Skills
-- 💡 C, C++, Python, HTML, CSS
+- 💡 C, C++
 - 🧰 Tools: Git, Canva, VS Code, VirtualBox
 - 📚 Interests: Web Dev, System Programming, Backend Projects
 
