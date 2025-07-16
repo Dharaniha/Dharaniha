@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dharani Suresh!
+# Hi there I'm Dharaniha!
 
 🎓 First-year B.E. Computer Science Engineering Student  
 💻 Passionate about coding and real-world projects  
