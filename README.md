@@ -1,11 +1,11 @@
 # Hi there I'm Dharaniha!
 
-🎓 First-year B.E. Computer Science Engineering Student  
+🎓 Pre Final-year B.E. Computer Science Engineering Student  
 💻 Passionate about coding and real-world projects  
 📘 Learning: C, DBMS, Git, Shell Scripting, and Backend Development  
 
 ## 🛠 Skills
-- 💡 C, C++
+- 💡 C, C++,Java,Python.
 - 🧰 Tools: Git, Canva, VS Code, VirtualBox
 - 📚 Interests: Web Dev, System Programming, Backend Projects
 
