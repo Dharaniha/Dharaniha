@@ -3,10 +3,8 @@
 
 
 ## 🌐 Socials:
-```markdown
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaniha-s-491aa1327/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharaniniha79@gmail.com)
-```
 
 
 # 💻 Tech Stack:
